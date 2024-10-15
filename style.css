@@ -71,6 +71,48 @@ p {
     color: white;
 }
 
+#jordans-1-desc {
+    border: solid rgb(241, 117, 0);
+    background-color: rgb(116,201,241);
+    border-radius: 0.5em;
+}
+
+#jordans-1 {
+    height: 400px;
+    width: 600px;
+}
+
+#jordans-2-desc {
+    border: solid rgb(13, 110, 0);
+    background-color: rgb(251,64,64);
+    border-radius: 0.5em;
+    
+}
+
+#jordans-2 {
+    height: 400px;
+    width: 600px;
+}
+
+#row1 {
+    width: 70%;
+}
+
+#row1-section1 {
+    height: auto;
+    width: 100%;
+    box-shadow: 4px 0px 4px blue;
+}
+
+#row2 {
+    width: 70%;
+}
+
+#row2-section1 {
+    height: auto;
+    width: 100%;
+    box-shadow: 4px 0px 4px red;
+}
 
 background-color: rgb(243, 183, 106)
 background-image: https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg
